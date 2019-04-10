@@ -1,2 +1,2 @@
 # Aviation-Clock
-This is an aviation clock I wrote in HTML and PHP
+This is a simple aviation clock I wrote in HTML and PHP
